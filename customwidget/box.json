@@ -1,7 +1,7 @@
 {
 	"id": "com.demo.gauge",
 	"version": "1.0.0",
-	"name": "Demo Gauge",
+	"name": "Demo Gauge_USER_XX",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
 	"icon": "https://accenturesac.github.io/sac/customwidget/box/icon.png",
